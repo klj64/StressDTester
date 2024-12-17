@@ -17,7 +17,7 @@ The evaluation is split into two main components:
 
 Symmetry: Quantifies deviations in stress fields for symmetric input geometries.
 
-Boundary Conditions: Ensures predictions respect specified loading and support conditions.
+Stress Continuity: Stress fields should not have fluctuation but rather a continuous pattern.
 
 Physical Constraints: Monitors predictions to confirm stress values remain finite and valid.
 
