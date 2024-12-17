@@ -7,7 +7,7 @@ The primary goal of this project is to evaluate StressD against three critical p
 
 Symmetry: Stress distributions should exhibit symmetry when input configurations are symmetric.
 
-Boundary Condition Adherence: Stress predictions must align with defined boundary conditions.
+Stress Continuity: Stress fields should not have fluctuation but rather a continuous pattern.
 
 Physical Constraints: Predicted stress values must remain finite and within realistic bounds.
 
