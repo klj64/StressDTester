@@ -26,6 +26,6 @@ Physical Constraints: Monitors predictions to confirm stress values remain finit
 Synthetic datasets were generated to simulate various input scenarios, including edge cases, to evaluate StressD's robustness and highlight limitations.
 
 # Set-up:
-To re-run this code, you need to pull the testing_data attached to the original StressD paper. Due to high lag when downloading and uploading these cases, we don't include the file here.
+We pull our testing_data from the file attached to the original StressD paper. Due to high lag when downloading and uploading these cases, we don't include the file here. But, we do include one file to display our tests with. The dataset can be found [here] (https://drive.google.com/drive/folders/1VN6MRmgE4Uey-EmU1dRk3Keow7vqMTbY).
 
 The /revsion, /testing_data, and /base_network are taken directly from the StressD project. This level of integration was with the intent to fork and make a PR. 
